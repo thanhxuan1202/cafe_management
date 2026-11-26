@@ -1,0 +1,1815 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\cafe-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\newsmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\newsmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\js\\misc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\js\\misc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\newsmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\newsmanage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\js\\main-additional.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\js\\main-additional.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\newsmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\newsmanage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\homeadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\homeadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\homeadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\homeadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\newsmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\newsmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\newsmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\newsmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251108125305_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251108125305_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\cafedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\cafedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\repository\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\repository\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\repository\\inhomsprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\repository\\inhomsprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\viewcomponents\\nhomspmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\viewcomponents\\nhomspmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\viewcomponents\\shoppingcartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\viewcomponents\\shoppingcartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_searchboxpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_searchboxpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_preloaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_preloaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_instagrampartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_instagrampartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\_backtotoppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\_backtotoppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\shared\\components\\nhomspmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\shared\\components\\nhomspmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\products\\type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\products\\type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\style-additional.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\style-additional.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\bill\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\bill\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\admin-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\admin-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\homeadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\homeadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\feedback\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\feedback\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\style-admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\style-admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\style-admin-additional.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\style-admin-additional.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbbilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbbilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\models\\tbnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\models\\tbnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\repository\\nhomsprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\repository\\nhomsprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\helpers\\extensionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\helpers\\extensionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\cafe-management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\cafe-management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\cafedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\cafedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251107142638_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251107142638_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\css\\style-font.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\css\\style-font.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\js\\main-admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\js\\main-admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\js\\hoverable-collapse.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\js\\hoverable-collapse.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\wwwroot\\js\\main-admin-additional.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\wwwroot\\js\\main-admin-additional.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251108125853_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251108125853_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251108125659_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251108125659_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251121040450_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251121040450_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251121093936_v6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251121093936_v6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|d:\\document\\cafe-management\\cafe-management\\migrations\\20251121212101_v7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD32D7A-572B-4A22-96DB-76A3250A6F4C}|cafe-management\\cafe-management.csproj|solutionrelative:cafe-management\\migrations\\20251121212101_v7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20251121212101_v7.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251121212101_v7.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251121212101_v7.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251121212101_v7.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251121212101_v7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T21:21:01.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T17:04:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:42:02.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "misc.js",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\misc.js",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\js\\misc.js",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\misc.js",
+              "RelativeToolTip": "cafe-management\\wwwroot\\js\\misc.js",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAowI8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T10:38:47.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAUwFkBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:35:00.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsManageController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\NewsManageController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\NewsManageController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\NewsManageController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\NewsManageController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:24:21.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T05:14:39.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:37:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T01:53:33.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:33:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Feedback\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T09:08:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:34:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswJ8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T10:19:41.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T18:42:46.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TbCustomer.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbCustomer.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbCustomer.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbCustomer.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbCustomer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:09:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TbCategory.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbCategory.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbCategory.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbCategory.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:09:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T04:38:47.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAawHoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:42:36.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAowGgBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T02:11:40.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T02:13:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T02:13:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\CartController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:50:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Details.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Details.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Details.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:49:33.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Edit.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Edit.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:50:53.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main-additional.js",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\main-additional.js",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\js\\main-additional.js",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\main-additional.js",
+              "RelativeToolTip": "cafe-management\\wwwroot\\js\\main-additional.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-21T19:31:06.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:27:56.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T13:14:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Details.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Details.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Details.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:17:17.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:17:45.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Create.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Create.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Create.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:48:25.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\NewsManage\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\NewsManage\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:30:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\AboutController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:56:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\AccessController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwCcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:00:41.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:56:18.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:57:57.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:56:17.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "cafe-management\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:56:08.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Helpers\\SessionHelper.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "cafe-management\\Helpers\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:11:22.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251108125305_v2.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251108125305_v2.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251108125305_v2.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251108125305_v2.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251108125305_v2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:53:06.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TbAccount.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbAccount.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbAccount.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbAccount.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:10:34.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\CartItem.cs",
+              "RelativeToolTip": "cafe-management\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:09:28.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CafeDBContext.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\CafeDBContext.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\CafeDBContext.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\CafeDBContext.cs",
+              "RelativeToolTip": "cafe-management\\Models\\CafeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:15:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Repository\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Repository\\IProductsRepository.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Repository\\IProductsRepository.cs",
+              "RelativeToolTip": "cafe-management\\Repository\\IProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:19:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "INhomSpRepository.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Repository\\INhomSpRepository.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Repository\\INhomSpRepository.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Repository\\INhomSpRepository.cs",
+              "RelativeToolTip": "cafe-management\\Repository\\INhomSpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:19:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NhomSpMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\ViewComponents\\NhomSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "cafe-management\\ViewComponents\\NhomSpMenuViewComponent.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\ViewComponents\\NhomSpMenuViewComponent.cs",
+              "RelativeToolTip": "cafe-management\\ViewComponents\\NhomSpMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:17:12.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShoppingCartSummaryViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\ViewComponents\\ShoppingCartSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "cafe-management\\ViewComponents\\ShoppingCartSummaryViewComponent.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\ViewComponents\\ShoppingCartSummaryViewComponent.cs",
+              "RelativeToolTip": "cafe-management\\ViewComponents\\ShoppingCartSummaryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:48:09.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "cafe-management\\ViewModels\\CreateProductViewModel.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeToolTip": "cafe-management\\ViewModels\\CreateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:58:49.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "cafe-management\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "cafe-management\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:15:15.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "cafe-management\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "cafe-management\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:51:01.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\About\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T02:11:46.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Access\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T01:51:21.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T18:42:39.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T07:55:50.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Program.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Program.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Program.cs",
+              "RelativeToolTip": "cafe-management\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:12:35.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T18:42:22.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_SearchBoxPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_SearchBoxPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_SearchBoxPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_SearchBoxPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_SearchBoxPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T07:28:30.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ProductListPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_ProductListPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_ProductListPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_ProductListPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_ProductListPartial.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T18:04:58.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_PreloaderPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_PreloaderPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_PreloaderPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_PreloaderPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_PreloaderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T07:28:28.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:23:58.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_InstagramPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_InstagramPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_InstagramPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_InstagramPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_InstagramPartial.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T04:14:54.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:08:03.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:46:12.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\News\\Details.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\News\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:23:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_FooterPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_FooterPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_FooterPartial.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:45:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T18:41:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T12:49:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_BackToTopPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_BackToTopPartial.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\_BackToTopPartial.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\_BackToTopPartial.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\_BackToTopPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:45:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\Components\\NhomSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Shared\\Components\\NhomSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Shared\\Components\\NhomSpMenu\\Default.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Shared\\Components\\NhomSpMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T10:49:54.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Type.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Products\\Type.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Products\\Type.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Products\\Type.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Products\\Type.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T07:51:04.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:23:47.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T07:51:00.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\Authentication\\Authentication.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "cafe-management\\Models\\Authentication\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:56:08.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "style-additional.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-additional.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\style-additional.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-additional.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\style-additional.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T05:14:54.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T17:44:05.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\BillController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\BillController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\BillController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:32:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T10:04:22.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Bill\\Details.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Bill\\Details.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Bill\\Details.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Bill\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T05:14:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Accounts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T01:52:57.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Create.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Create.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:15:38.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "admin-custom.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\admin-custom.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\admin-custom.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\admin-custom.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\admin-custom.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T16:44:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Feedback\\Details.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Feedback\\Details.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Feedback\\Details.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Feedback\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T09:05:42.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:33:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T15:33:45.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20251121093936_v6.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251121093936_v6.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251121093936_v6.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251121093936_v6.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251121093936_v6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:39:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "cafe-management\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:10:39.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "style-admin-additional.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-admin-additional.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\style-admin-additional.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-admin-additional.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\style-admin-additional.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T10:39:04.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "style-admin.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-admin.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\style-admin.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-admin.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\style-admin.css",
+              "ViewState": "AgIAAMUWAAAAAAAAAIAwwFwaAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T10:38:54.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "TbBill.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbBill.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbBill.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbBill.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:04:40.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "cafe-management\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:07:00.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "TbBillDetail.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbBillDetail.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbBillDetail.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbBillDetail.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbBillDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:08:07.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "TbFeedback.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbFeedback.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbFeedback.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbFeedback.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:07:16.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "TbProduct.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbProduct.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbProduct.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbProduct.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:05:51.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "TbNews.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbNews.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Models\\TbNews.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Models\\TbNews.cs",
+              "RelativeToolTip": "cafe-management\\Models\\TbNews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:06:31.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20251121040450_v5.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251121040450_v5.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251121040450_v5.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251121040450_v5.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251121040450_v5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T04:04:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "NhomSpRepository.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Repository\\NhomSpRepository.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Repository\\NhomSpRepository.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Repository\\NhomSpRepository.cs",
+              "RelativeToolTip": "cafe-management\\Repository\\NhomSpRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:19:52.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Repository\\ProductsRepository.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "cafe-management\\Repository\\ProductsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:12:24.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "cafe-management\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "cafe-management\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T03:20:35.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ExtensionHelper.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Helpers\\ExtensionHelper.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Helpers\\ExtensionHelper.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Helpers\\ExtensionHelper.cs",
+              "RelativeToolTip": "cafe-management\\Helpers\\ExtensionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:11:08.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "cafe-management.csproj",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\cafe-management.csproj",
+              "RelativeDocumentMoniker": "cafe-management\\cafe-management.csproj",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\cafe-management.csproj",
+              "RelativeToolTip": "cafe-management\\cafe-management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T13:44:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20251108125853_v4.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251108125853_v4.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251108125853_v4.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251108125853_v4.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251108125853_v4.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:58:53.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20251108125659_v3.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251108125659_v3.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251108125659_v3.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251108125659_v3.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251108125659_v3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:56:59.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CafeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\CafeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\CafeDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\CafeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\CafeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:48:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "cafe-management\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "cafe-management\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-07T13:12:02.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\appsettings.json",
+              "RelativeDocumentMoniker": "cafe-management\\appsettings.json",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\appsettings.json",
+              "RelativeToolTip": "cafe-management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T14:13:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20251107142638_v1.cs",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251107142638_v1.cs",
+              "RelativeDocumentMoniker": "cafe-management\\Migrations\\20251107142638_v1.cs",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\Migrations\\20251107142638_v1.cs",
+              "RelativeToolTip": "cafe-management\\Migrations\\20251107142638_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:26:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T10:39:09.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "style-font.css",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-font.css",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\css\\style-font.css",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\css\\style-font.css",
+              "RelativeToolTip": "cafe-management\\wwwroot\\css\\style-font.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T10:39:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "main-admin.js",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\main-admin.js",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\js\\main-admin.js",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\main-admin.js",
+              "RelativeToolTip": "cafe-management\\wwwroot\\js\\main-admin.js",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T10:38:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "hoverable-collapse.js",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\hoverable-collapse.js",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\js\\hoverable-collapse.js",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\hoverable-collapse.js",
+              "RelativeToolTip": "cafe-management\\wwwroot\\js\\hoverable-collapse.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T10:38:48.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "main-admin-additional.js",
+              "DocumentMoniker": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\main-admin-additional.js",
+              "RelativeDocumentMoniker": "cafe-management\\wwwroot\\js\\main-admin-additional.js",
+              "ToolTip": "D:\\Document\\cafe-management\\cafe-management\\wwwroot\\js\\main-admin-additional.js",
+              "RelativeToolTip": "cafe-management\\wwwroot\\js\\main-admin-additional.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-08T10:38:44.96Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

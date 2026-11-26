@@ -1,0 +1,20 @@
+﻿@model IEnumerable<TbCategory>
+
+<div class="categories__accordion">
+    <div class="accordion" id="accordionExample">
+        <div class="card">
+            <div class="card-heading">
+                <a href="javascript:void(0)" onclick="loadProducts(1, '', null)">Tất cả</a>
+            </div>
+        </div>
+
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <div class="card-heading">
+                    <a href="javascript:void(0)" onclick="loadProducts(1, '', @item.Id)">@item.Name</a>
+                </div>
+            </div>
+        }
+    </div>
+</div>
